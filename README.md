@@ -62,4 +62,4 @@ Briefly describe what this project does in 2–3 lines.
 
 ---
 
-## 📂 Project Structure
+
